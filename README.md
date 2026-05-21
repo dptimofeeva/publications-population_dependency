@@ -5,7 +5,7 @@
 - results_TALD.csv — данные по языкам для основной классификации 
 - results_Languages_of_the_world.csv — данные по языкам для альтернативной классификации  
 
-**data_processing/parsers/** — коды для сбора и обработки данных  
+**data_processing/** — коды для сбора и обработки данных  
 - parsers/ — коды для сбора данных
     - rsl_parser.ipynb — парсер для сбора публикаций из РГБ
     - google_scholar_parser.ipynb — парсер для сбор публикаций из Google Scholar
